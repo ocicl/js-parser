@@ -1,0 +1,10 @@
+* js-parser
+
+Javascript parser written in common lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gonzojive/js-parser   |
+| commit  | a261dee  |
+| systems | js-parser |
+|---------+-------------------------------------------|
+
